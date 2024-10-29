@@ -1,4 +1,4 @@
 https://en.wikipedia.org/wiki/Intranet
 
 An intranet is private network whitin a enterprise that allows for easy information sharing, communcation,
-and collaboration.  It’s designed for employees only, unlike a public network. 
+and collaboration. It’s designed for employees only, unlike a public network. 
