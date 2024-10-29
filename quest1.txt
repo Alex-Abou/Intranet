@@ -1,4 +1,4 @@
-https://www.happeo.com/what-is-intranet#:~:text=An%20intranet%20can%20be%20defined,information%2C%20and%20to%20help%20collaborate.
+https://en.wikipedia.org/wiki/Intranet
 
-An intranet is a private network used by an organization. It helps employees communicate securely, store 
-information, and collaborate with each other.
+An intranet is private network whitin a enterprise that allows for easy information sharing, communcation,
+and collaboration.  It’s designed for employees only, unlike a public network. 
